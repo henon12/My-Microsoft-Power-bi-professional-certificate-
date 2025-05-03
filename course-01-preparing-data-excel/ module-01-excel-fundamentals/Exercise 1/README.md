@@ -39,7 +39,8 @@ This exercise involves:
 |----------------------------|-------------------------------------|
 | Original Sheet1            | ![](![image](https://github.com/user-attachments/assets/cb95d681-6743-4a72-b029-eb49a931445b)
 )|
-| After Deleting Column B    | ![](![image](https://github.com/user-attachments/assets/3f5cf687-4777-4e71-beda-4a421d0ce7d0)
+| After Deleting Column B    | ![](![image](![image](https://github.com/user-attachments/assets/aa0fa5ff-db12-4274-bbb7-001cc2e09115)
+)
 )|
 | After Formatting Headings  | ![](![image](https://github.com/user-attachments/assets/0c59b2d8-5280-4d9f-8805-11008d8866d9)
 )|
