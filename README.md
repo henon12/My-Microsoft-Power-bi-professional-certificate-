@@ -88,6 +88,19 @@ The Professional Certificate is an 8-course series designed to equip learners wi
 | Module 4 | Deploying and Maintaining Assets | 🔲 | |
 | Module 5 | Mock Exam | 🔲 | |
 
+
+
+## 👨‍💻 About Me
+
+**Name:** Henok Tariku  
+**Field:** Data Analytics & Visualization  
+**Passion:** Turning raw data into meaningful insights using Power BI and Excel.
+
+This repository showcases my commitment to continuous learning and practical skill development in business intelligence.
+
+## 📄 License
+
+This project is licensed under the MIT License. All rights and credits belong to Henok Tariku.
 ## 🗂️ Repository Structure
 
 ```bash
@@ -134,3 +147,5 @@ My-Microsoft-Power-BI-Professional-Certificate/
 │   └── module-05-mock-exam/
 ├── LICENSE
 └── README.md
+
+
