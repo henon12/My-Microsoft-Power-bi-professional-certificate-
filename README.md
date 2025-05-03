@@ -4,91 +4,81 @@ This repository documents my hands-on projects, notes, and progress through the 
 
 ---
 
-## 🎯 Certificate Overview
-
-The Professional Certificate is an 8-course series designed to equip learners with the skills needed to become proficient Power BI data analysts. The curriculum covers:
-
-- Data preparation and modeling  
-- Data visualization and analysis  
-- Report creation and sharing  
-- Exam preparation for the PL-300: Microsoft Power BI Data Analyst certification
-
----
 ## ✅ Progress Tracker
 
 ### 📘 Course 1: Preparing Data for Analysis with Microsoft Excel – ✅ Completed
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Excel Fundamentals | ✅ | Adding Data to Worksheet |
-| Module 2 | Formulas & Functions | ✅ | Coming soon |
-| Module 3 | Preparing Data with Functions | ✅ | Coming soon |
-| Module 4 | Final Project & Assessment | ✅ | Coming soon |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Excel Fundamentals                  | ✅      | Adding Data to Worksheet |
+| Module 2 | Formulas & Functions                | ✅      | Using Formulas in Excel |
+| Module 3 | Preparing Data with Functions       | ✅      | Cleaning Data with Functions |
+| Module 4 | Final Project & Assessment          | ✅      | Preparing a Project Report |
 
 ### 📘 Course 2: Harnessing the Power of Data with Power BI – ⏳ In Progress
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Data Analysis in Business | ✅ | Coming soon |
-| Module 2 | Data Analysis Process | ⏳ | Coming soon |
-| Module 3 | Introduction to Power BI | 🔲 | Coming soon |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Data Analysis in Business           | ✅      | Exploring Business Data |
+| Module 2 | Data Analysis Process               | ⏳      | Transforming Data for Analysis |
+| Module 3 | Introduction to Power BI            | 🔲      | Overview of Power BI Interface |
 
 ### 📘 Course 3: Extract, Transform and Load (ETL) Data in Power BI – 🔲 Not Started
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Data Connection & Transformation | 🔲 | |
-| Module 2 | Data Cleaning & Loading | 🔲 | |
-| Module 3 | Data Integration | 🔲 | |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Data Connection & Transformation    | 🔲      |                  |
+| Module 2 | Data Cleaning & Loading             | 🔲      |                  |
+| Module 3 | Data Integration                    | 🔲      |                  |
 
 ### 📘 Course 4: Data Modeling in Power BI – 🔲 Not Started
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Concepts of Data Modeling | 🔲 | |
-| Module 2 | Using DAX in Power BI | 🔲 | |
-| Module 3 | Optimizing Model Performance | 🔲 | |
-| Module 4 | Advanced Modeling Techniques | 🔲 | |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Concepts of Data Modeling           | 🔲      |                  |
+| Module 2 | Using DAX in Power BI               | 🔲      |                  |
+| Module 3 | Optimizing Model Performance        | 🔲      |                  |
+| Module 4 | Advanced Modeling Techniques        | 🔲      |                  |
 
 ### 📘 Course 5: Data Analysis and Visualization with Power BI – 🔲 Not Started
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Creating Reports | 🔲 | |
-| Module 2 | Advanced Visualizations | 🔲 | |
-| Module 3 | Data Storytelling | 🔲 | |
-| Module 4 | Accessibility & Report Design | 🔲 | |
-| Module 5 | Advanced Analytics | 🔲 | |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Creating Reports                    | 🔲      |                  |
+| Module 2 | Advanced Visualizations             | 🔲      |                  |
+| Module 3 | Data Storytelling                   | 🔲      |                  |
+| Module 4 | Accessibility & Report Design       | 🔲      |                  |
+| Module 5 | Advanced Analytics                  | 🔲      |                  |
 
 ### 📘 Course 6: Creative Designing in Power BI – 🔲 Not Started
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Visual Design Principles | 🔲 | |
-| Module 2 | Custom Visuals | 🔲 | |
-| Module 3 | Theming and Branding | 🔲 | |
-| Module 4 | Enhancing User Experience | 🔲 | |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Visual Design Principles            | 🔲      |                  |
+| Module 2 | Custom Visuals                      | 🔲      |                  |
+| Module 3 | Theming and Branding                | 🔲      |                  |
+| Module 4 | Enhancing User Experience           | 🔲      |                  |
 
 ### 📘 Course 7: Deploy and Maintain Power BI Assets + Capstone Project – 🔲 Not Started
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Publishing Reports | 🔲 | |
-| Module 2 | Data Refresh Scheduling | 🔲 | |
-| Module 3 | Security and Permissions | 🔲 | |
-| Module 4 | Capstone Project | 🔲 | |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Publishing Reports                  | 🔲      |                  |
+| Module 2 | Data Refresh Scheduling             | 🔲      |                  |
+| Module 3 | Security and Permissions            | 🔲      |                  |
+| Module 4 | Capstone Project                    | 🔲      |                  |
 
 ### 📘 Course 8: Microsoft PL-300 Exam Preparation and Practice – 🔲 Not Started
 
-| Module | Description | Status | Sample Work |
-|--------|-------------|--------|-------------|
-| Module 1 | Preparing Data | 🔲 | |
-| Module 2 | Modeling Data | 🔲 | |
-| Module 3 | Visualizing and Analyzing Data | 🔲 | |
-| Module 4 | Deploying and Maintaining Assets | 🔲 | |
-| Module 5 | Mock Exam | 🔲 | |
+| Module   | Description                         | Status | Sample Work      |
+|----------|-------------------------------------|--------|------------------|
+| Module 1 | Preparing Data                      | 🔲      |                  |
+| Module 2 | Modeling Data                       | 🔲      |                  |
+| Module 3 | Visualizing and Analyzing Data      | 🔲      |                  |
+| Module 4 | Deploying and Maintaining Assets    | 🔲      |                  |
+| Module 5 | Mock Exam                           | 🔲      |                  |
 
-
+---
 
 ## 👨‍💻 About Me
 
@@ -96,11 +86,15 @@ The Professional Certificate is an 8-course series designed to equip learners wi
 **Field:** Data Analytics & Visualization  
 **Passion:** Turning raw data into meaningful insights using Power BI and Excel.
 
-This repository showcases my commitment to continuous learning and practical skill development in business intelligence.
+This repository showcases my commitment to continuous learning and practical skill development in business intelligence. I am actively working through the Microsoft Power BI Data Analyst Professional Certificate, and this document serves as a progress tracker for the courses, modules, and the projects I complete along the way. My goal is to not only complete this certification but also to enhance my data visualization and analysis skills for real-world applications.
+
+---
 
 ## 📄 License
 
 This project is licensed under the MIT License. All rights and credits belong to Henok Tariku.
+
+
 ## 🗂️ Repository Structure
 
 ```bash
@@ -115,9 +109,10 @@ My-Microsoft-Power-BI-Professional-Certificate/
 │   ├── module-02-data-analysis-process/
 │   └── module-03-introduction-power-bi/
 ├── course-03-extract-transform-load-power-bi/
-│   ├── module-01-data-connection-transformation/
-│   ├── module-02-data-cleaning-loading/
-│   └── module-03-data-integration/
+│   ├── module-01-data-sources-in-power-bi/
+│   ├── module-02-transforming-data-in-power-bi/
+│   ├── module-03-advanced-etl-power-bi/
+│   └── module-04-graded-assessment/
 ├── course-04-data-modeling-power-bi/
 │   ├── module-01-concepts-data-modeling/
 │   ├── module-02-using-dax-power-bi/
@@ -147,5 +142,3 @@ My-Microsoft-Power-BI-Professional-Certificate/
 │   └── module-05-mock-exam/
 ├── LICENSE
 └── README.md
-
-
