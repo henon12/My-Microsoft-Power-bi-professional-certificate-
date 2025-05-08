@@ -100,7 +100,7 @@ This exercise demonstrates how to filter data in Microsoft Excel using the **Adv
 
 ## 🎬 Additional Resources
 
-- 📹 [Sorting and Filtering Data in Excel – Microsoft Support](https://support.microsoft.com/excel)
+- 📹 [Sorting and Filtering Data in Excel – Microsoft Support][(https://support.microsoft.com/excel](https://support.microsoft.com/en-gb/office/sort-data-in-a-range-or-table-62d0b95d-2a90-4610-a6ae-2e545c4a4654))
 
 
 
