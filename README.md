@@ -6,21 +6,21 @@ This repository documents my hands-on projects, notes, and progress through the 
 
 ## ✅ Progress Tracker
 
-### 📘 Course 1: Preparing Data for Analysis with Microsoft Excel – ✅ Completed
+### 📘 Course 1: Preparing Data for Analysis with Microsoft Excel – ⏳ Completed
 
 | Module   | Description                         | Status | Sample Work      |
 |----------|-------------------------------------|--------|------------------|
 | Module 1 | Excel Fundamentals                  | ✅      | Adding Data to Worksheet |
 | Module 2 | Formulas & Functions                | ✅      | Using Formulas in Excel |
-| Module 3 | Preparing Data with Functions       | ✅      | Cleaning Data with Functions |
-| Module 4 | Final Project & Assessment          | ✅      | Preparing a Project Report |
+| Module 3 | Preparing Data with Functions       | ⏳     | Cleaning Data with Functions |
+| Module 4 | Final Project & Assessment          | ⏳      | Preparing a Project Report |
 
 ### 📘 Course 2: Harnessing the Power of Data with Power BI – ⏳ In Progress
 
 | Module   | Description                         | Status | Sample Work      |
 |----------|-------------------------------------|--------|------------------|
-| Module 1 | Data Analysis in Business           | ✅      | Exploring Business Data |
-| Module 2 | Data Analysis Process               | ⏳      | Transforming Data for Analysis |
+| Module 1 | Data Analysis in Business           | 🔲      | Exploring Business Data |
+| Module 2 | Data Analysis Process               | 🔲     | Transforming Data for Analysis |
 | Module 3 | Introduction to Power BI            | 🔲      | Overview of Power BI Interface |
 
 ### 📘 Course 3: Extract, Transform and Load (ETL) Data in Power BI – 🔲 Not Started
