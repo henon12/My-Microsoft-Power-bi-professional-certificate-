@@ -12,8 +12,8 @@ This repository documents my hands-on projects, notes, and progress through the 
 |----------|-------------------------------------|--------|------------------|
 | Module 1 | Excel Fundamentals                  | ✅      | Adding Data to Worksheet |
 | Module 2 | Formulas & Functions                | ✅      | Using Formulas in Excel |
-| Module 3 | Preparing Data with Functions       | ⏳     | Cleaning Data with Functions |
-| Module 4 | Final Project & Assessment          | ⏳      | Preparing a Project Report |
+| Module 3 | Preparing Data with Functions       | ✅     | Cleaning Data with Functions |
+| Module 4 | Final Project & Assessment          | ✅      | Preparing a Project Report |
 
 ### 📘 Course 2: Harnessing the Power of Data with Power BI – ⏳ In Progress
 
