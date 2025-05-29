@@ -73,14 +73,70 @@ For the border, I set the border style to **None** to keep the area clean.
 ```
 
 2. I autofilled down the column, copied the entire column, and used Paste Values.
-3. I deleted column G.
-4. I selected the range F2:Y246 and sorted it by Order Date (Oldest to Newest) using the Sort dialog.
-5. I hid:
-   - Column F
-   - Columns S to Y
-6. I froze panes from cell G2.
+   ![image](https://github.com/user-attachments/assets/d143625f-314c-4c78-8a72-49eb9e692ac8)
+
+4. I deleted column G.
+   ![image](https://github.com/user-attachments/assets/c0dd13dc-7f63-4bad-8b64-1af52cd36150)
+
+   
+6. I selected the range F2:Y246 and sorted it by Order Date (Oldest to Newest) using the Sort dialog.
+# 📊 Sorting the Sales Data in Excel
+
+## ✅ Goal
+Sort the sales records by **Order Date** from **oldest to newest** so that the monthly total calculations in later steps work correctly.
 
 ---
+
+## 🤔 My Confusion
+
+At first, I was confused because I thought I could just click the **A→Z sort button** on the **Data ribbon**. But when I did that, **only part of the data was sorted**. The rest of the rows didn’t move properly.
+
+Later, I realized the problem was caused by a **blank column (column E)** that broke the full range of data. Excel treats blank columns as a "stop" point when using the quick sort buttons.
+
+---
+
+## ⚠️ Important Note
+
+> **Don’t use the A→Z or Z→A sort buttons directly** if there are blank columns. Excel won’t select the full dataset correctly.
+
+---
+
+## ✅ What I Did Instead
+
+To fix it and sort everything correctly:
+
+1. **Click on cell F2** (first data cell after the blank column).
+2. Press `Ctrl + Shift + End` to select the entire block of data (F2 to the last cell).
+3. Go to the **Data** tab.
+4. Click the full **Sort** button (NOT A→Z).
+5. In the Sort window:
+   - Make sure “**My data has headers**” is checked ✅
+   - Under **Sort By**, choose `Order Date`
+   - Under **Order**, select `Oldest to Newest`
+6. Click **OK**.
+
+---
+
+## ✅ Final Result
+
+All rows are now sorted by date correctly, and the summary section on the left side (columns A–D) remains untouched.
+
+---
+
+## 💡 Tip
+When working with data that has blank columns, **always highlight the full block manually** before sorting.
+Use the shortcut `Ctrl + Shift + End` to speed up the selection.
+
+![image](https://github.com/user-attachments/assets/42db022b-607a-43fe-94f0-fc018ea0aba5)
+![Uploading image.png…]()
+
+
+7. I hid:
+   - Column F
+   - Columns S to Y
+8. I froze panes from cell G2.
+
+
 
 ### 🔹 Step 4: Create New Row Information
 
