@@ -133,10 +133,18 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 ![image](https://github.com/user-attachments/assets/42db022b-607a-43fe-94f0-fc018ea0aba5)
 
 
-7. I hid:
+7. I hide:
+   **Before hide**
+![image](https://github.com/user-attachments/assets/1b7b4dad-ddc7-40b9-b66d-cc9ba21a22fe)
+![image](https://github.com/user-attachments/assets/c301883b-c745-4010-865b-43c3a20538c3)
    - Column F
    - Columns S to Y
-8. I froze panes from cell G2.
+**After hide**
+
+![image](https://github.com/user-attachments/assets/3a344245-50cb-49aa-a283-77c2000819f1)
+
+9. I froze panes from cell G2.
+![image](https://github.com/user-attachments/assets/f0953095-7039-4726-8b73-ad73f895b216)
 
 
 
@@ -147,20 +155,25 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 ```excel
 =MONTH(J2)
 ```
+![image](https://github.com/user-attachments/assets/aec253d8-4c35-4a2e-ba4f-5ce9c6437120)
 
 - I extracted the Year in cell L2:
 
 ```excel
 =YEAR(J2)
 ```
+![image](https://github.com/user-attachments/assets/6687f037-bec7-4110-a1e4-d9a7cf7a4af9)
 
 - I autofilled both down to row 246.
+
+![image](https://github.com/user-attachments/assets/85553fed-6fde-4e44-8c3b-d6e4d6fd4301)
 
 - In cell P2, I calculated the total order value:
 
 ```excel
-=M2 * N2
+=N2 * O2
 ```
+![image](https://github.com/user-attachments/assets/b48518d4-144c-4ad4-98f5-96afcb5866aa)
 
 - In cell Q2, I applied a tax rule using `IF`:
 
@@ -168,7 +181,8 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 =IF(P2 > 2000, P2 * 0.05, 0)
 ```
 
----
+![image](https://github.com/user-attachments/assets/90510a3c-37b6-4886-81f2-7f7856614129)
+
 
 ### 🔹 Step 5: Calculate and Compare Profit Margins
 
@@ -186,6 +200,71 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 =SUMIFS(R2:R246, L2:L246, 2023)
 ```
 
+### 🔧 Correction Note
+
+I noticed that the original exercise contained a formula error in the use of the `SUMIFS` function. The **criteria** and **criteria range** were reversed.
+
+---
+
+### ❌ Original Incorrect Formula:
+
+```excel
+=SUMIFS(L2:L246, 2022, R2:R246)
+```
+
+This is incorrect because:
+- `2022` is written where a **range** should be.
+- `R2:R246` is used as the **criteria**, which should be a fixed value like `2022`.
+
+---
+
+### ✅ I Corrected the Formulas Like This:
+
+Since the **year values** are in column **L** and the **sales data** are in column **R**,  
+I rewrote the formulas correctly:
+
+**For 2022 sales:**
+
+```excel
+=SUMIFS(R2:R246, L2:L246, 2022)
+```
+
+**Result:**
+
+```
+$330,500
+```
+
+---
+
+**For 2023 sales:**
+
+```excel
+=SUMIFS(R2:R246, L2:L246, 2023)
+```
+
+**Result:**
+
+```
+$453,830
+```
+
+---
+
+### 📌 Summary Table
+
+| Year | Correct Formula                             | Output     |
+|------|----------------------------------------------|------------|
+| 2022 | `=SUMIFS(R2:R246, L2:L246, 2022)`            | $330,500   |
+| 2023 | `=SUMIFS(R2:R246, L2:L246, 2023)`            | $453,830   |
+
+
+![image](https://github.com/user-attachments/assets/e32e2ec4-7e8f-4523-8c27-bb235775785b)
+
+![image](https://github.com/user-attachments/assets/6b2f3815-ffc3-4e8c-bd34-8471e1653134)
+
+
+
 #### Monthly Breakdown (Q1)
 
 - In B12 (January 2022):
@@ -193,36 +272,42 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 ```excel
 =SUMIFS($R$2:$R$103, $K$2:$K$103, 1)
 ```
+![image](https://github.com/user-attachments/assets/9f944e6d-4dd9-4b14-b7ce-1ab65ba5b4ea)
 
 - In B13 (February 2022):
 
 ```excel
 =SUMIFS($R$2:$R$103, $K$2:$K$103, 2)
 ```
+![image](https://github.com/user-attachments/assets/49aaa37b-7630-4a77-a7ef-37691f39bca7)
 
 - In B14 (March 2022):
 
 ```excel
 =SUMIFS($R$2:$R$103, $K$2:$K$103, 3)
 ```
+![image](https://github.com/user-attachments/assets/6bdbefcb-f085-47aa-9d74-e264952e2953)
 
 - In C12 (January 2023):
 
 ```excel
 =SUMIFS($R$104:$R$246, $K$104:$K$246, 1)
 ```
+![image](https://github.com/user-attachments/assets/48366de5-6786-44ba-b0e0-f22b6fe5c946)
 
 - In C13 (February 2023):
 
 ```excel
 =SUMIFS($R$104:$R$246, $K$104:$K$246, 2)
 ```
+![image](https://github.com/user-attachments/assets/480b3dd9-189a-4699-bb59-4f5da8a2d459)
 
 - In C14 (March 2023):
 
 ```excel
 =SUMIFS($R$104:$R$246, $K$104:$K$246, 3)
 ```
+![image](https://github.com/user-attachments/assets/72932ba3-6a42-4f98-ab76-bc9eac22e67c)
 
 #### Percentage Change in Sales
 
@@ -231,6 +316,7 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 ```excel
 =(C6 - B6) / B6
 ```
+![image](https://github.com/user-attachments/assets/cda2fe6b-afad-4684-9b3c-31779e904e7e)
 
 - In D12 to D14 (Monthly change):
 
@@ -238,7 +324,8 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 =(C12 - B12) / B12
 ```
 
----
+![image](https://github.com/user-attachments/assets/bdc4fd5b-7c0f-4ec1-a94e-a52de80bcb49)
+
 
 ## 🏁 Conclusion
 
