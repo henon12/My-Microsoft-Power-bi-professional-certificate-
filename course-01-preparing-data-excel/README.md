@@ -82,4 +82,65 @@ Now, I'm ready to apply my knowledge in the exercise and the final course assess
   - `IF`, `IFS` – for condition-based outcomes
   - `AND`, `OR` – to combine conditions
   - `SUMIF`, `AVERAGEIF`, `COUNTIF` – to perform actions based on criteria
+# 📊 Final Project: Executive Data Summary (Module 4)
+
+## ✅ What I Learned
+
+### 📁 Project Overview
+In this final project, I created an **Executive Data Summary** using **Microsoft Excel** to compare **Quarter 1 profit margins** for the years **2022 and 2023**. The goal was to analyze business performance, identify trends, and present clear, actionable insights for executives.
+
+
+
+## 📊 Data Analysis
+
+### 1. Profit Margin Trends
+- Calculated total profits for Q1 in 2022 and 2023 using `SUMIFS()`.
+- Found an increase in profit margins from 2022 to 2023, indicating positive business growth.
+- Calculated the percentage change to quantify the growth precisely.
+
+### 2. Sales and Tax Impact
+- Applied conditional tax calculation using the `IF()` function, charging 5% tax on sales over $2,000.
+- This helped understand how tax policies impact overall profitability.
+
+### 3. Data Quality and Cleaning
+- Standardized product names with `PROPER()` for consistency.
+- Removed irrelevant columns and hid others to keep the dataset focused and clean.
+- Sorted data chronologically by order date to ensure accurate time-based analysis.
+
+### 4. Usability Improvements
+- Used freeze panes to keep headers visible for easier navigation.
+- Applied consistent formatting (bold, borders, colors) to improve readability.
+
+### Key Insight:
+The analysis showed that improving product sales and managing tax thresholds effectively contributed to the profit margin growth observed between 2022 and 2023. The clear presentation of this data supports strategic decision-making.
+
+
+## 🧰 Skills & Techniques Applied
+
+- **Spreadsheet Formatting:** Merge & Center, bolding, borders, fill colors, wrap text, Format Painter.
+- **Data Cleaning:** PROPER(), hiding columns, removing unnecessary data.
+- **Sorting:** Chronological order by order date.
+- **Formulas:** MONTH(), YEAR(), SUMIFS(), IF() for conditional tax, profit calculations.
+- **Usability:** Freeze panes for navigation.
+
+
+
+## 🔧 Tools & Functions Used
+
+| Tool/Function  | Purpose                              |
+|----------------|------------------------------------|
+| Format Painter | Quick formatting replication       |
+| Merge & Center | Title/header clarity                |
+| PROPER()       | Standardize text case               |
+| IF()           | Conditional logic (tax calculation)|
+| SUMIFS()       | Conditional summation by year      |
+| MONTH(), YEAR()| Extract date components            |
+| Freeze Panes   | Keep headers visible                |
+| Sort Tool      | Organize data by date               |
+
+
+
+## 🎯 Final Reflection
+This project sharpened my ability to perform end-to-end data analysis, from cleaning to formula application to visualization. I learned how small formula tweaks (like conditional tax calculations) can provide deeper insights, and I practiced presenting data clearly for executives to support business decisions confidently.
+
 
