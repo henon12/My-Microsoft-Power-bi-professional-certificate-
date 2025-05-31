@@ -144,3 +144,9 @@ The analysis showed that improving product sales and managing tax thresholds eff
 This project sharpened my ability to perform end-to-end data analysis, from cleaning to formula application to visualization. I learned how small formula tweaks (like conditional tax calculations) can provide deeper insights, and I practiced presenting data clearly for executives to support business decisions confidently.
 
 
+### 📜 Coursera Certificate
+![image](https://github.com/user-attachments/assets/191bbd67-41b0-4c8f-9c5c-d62539bb41d3)
+
+[Click here to view my certificate on Coursera](https://www.coursera.org/account/accomplishments/certificate/DFL3M93BFQHU)
+
+
