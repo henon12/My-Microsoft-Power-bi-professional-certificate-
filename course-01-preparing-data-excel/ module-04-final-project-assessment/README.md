@@ -204,7 +204,7 @@ Use the shortcut `Ctrl + Shift + End` to speed up the selection.
 
 I noticed that the original exercise contained a formula error in the use of the `SUMIFS` function. The **criteria** and **criteria range** were reversed.
 
----
+
 
 ### ❌ Original Incorrect Formula:
 
