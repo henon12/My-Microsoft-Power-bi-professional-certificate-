@@ -3,7 +3,7 @@
 
 ## 📌 Introduction
 
-Over the past three weeks, I learned how to work with Microsoft Excel—formatting data, using functions, and performing calculations. In this final project, I applied those skills to help Jamie from Adventure Works prepare an executive summary of sales data for Q1.
+Over the past three weeks, I learned how to work with Microsoft Excel formatting data, using functions, and performing calculations. In this final project, I applied those skills to help Jamie from Adventure Works prepare an executive summary of sales data for Q1.
 
 
 
