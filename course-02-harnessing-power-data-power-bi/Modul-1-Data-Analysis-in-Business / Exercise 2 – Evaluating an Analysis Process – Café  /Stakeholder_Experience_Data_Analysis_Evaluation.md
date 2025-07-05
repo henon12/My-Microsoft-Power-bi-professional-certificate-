@@ -87,4 +87,4 @@ This analysis process gave Taylor insights into how to boost the café’s sales
 
 ---
 
-> _Prepared by Henok Tariku — July 2025_
+© 2025 Henok Tariku
