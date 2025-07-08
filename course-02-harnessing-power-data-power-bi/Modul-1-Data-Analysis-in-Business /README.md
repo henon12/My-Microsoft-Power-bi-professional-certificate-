@@ -1,4 +1,4 @@
-# 📘 Module Summary: Data Analysis in Business
+# 📘 Module 1 Summary: Data Analysis in Business
 
 ## ✅ What I Learned
 
