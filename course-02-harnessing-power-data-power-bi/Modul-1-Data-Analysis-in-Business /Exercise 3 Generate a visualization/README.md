@@ -62,8 +62,6 @@ My manager at Adventure Works, Adio, gave me a large dataset with information ab
   - **Order Total** → Y-Axis
   - **Product Size** → X-Axis
   - **Product Category** → Legend
-- I set the chart title to: `Order Total by Product Size and Product Category for 2023`.
-![image](https://github.com/user-attachments/assets/7c07f050-2fbf-4a4b-aa8c-a5de917db8df)
 - I updated the title using the Format tab to:
   - `Order Total by Product Size and Product Category for 2023`
 ![image](https://github.com/user-attachments/assets/5a475f56-dd5c-4bd9-9150-8d1c564cc337)
